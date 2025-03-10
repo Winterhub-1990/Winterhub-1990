@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **AWS, GCP, Heroku and Golang, Python, Rust**
 
-- 📫 How to reach me **malskyi.oleksandr@outlook.com**
-
 - ⚡ Fun fact **I'm a rapper 🎤🎧🎵**
 <br/>
  
