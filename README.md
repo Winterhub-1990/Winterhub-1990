@@ -2,13 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Senior FullStack Develoepr</h1>
 <br />
-<h3 align="center">Your favorite Full Stack Web Developer, I can build anything magically 🔮🪄 for you with React, Next, Vue, NodeJS and Firebase 💻🧑‍💻, and I can put my beautiful UI & UX skills to your app 🎨🖌️.</h3>
-<br />
-<p>I'm experienced in building complex UI on web applications with JavaScript/TypeScript, ReactJS, NextJS, and TailwindCSS, shadcn/ui, libraries like TanStack Query, zod, framer-motion, CMS Sanity.io and Storyblok, and others.</p>
-<br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Winterhub-1990&base=12300&label=Profile%20views&color=blueviolet&style=flat" alt="Winterhub-1990" /> </p>
-
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 - 🔭 I’m currently working on
