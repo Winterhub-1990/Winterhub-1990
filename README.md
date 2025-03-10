@@ -4,7 +4,7 @@
 <h3 align="center">Your favorite Full Stack Web Developer, I can build anything magically 🔮🪄 for you with React, Next, Vue, NodeJS and Firebase 💻🧑‍💻, and I can put my beautiful UI & UX skills to your app 🎨🖌️.</h3>
 <p>I'm experienced in building complex UI on web applications with JavaScript/TypeScript, ReactJS, NextJS, and TailwindCSS, shadcn/ui, libraries like TanStack Query, zod, framer-motion, CMS Sanity.io and Storyblok, and others.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elite-0000&base=12300&label=Profile%20views&color=blueviolet&style=flat" alt="elite-0000" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Winterhub-1990&base=12300&label=Profile%20views&color=blueviolet&style=flat" alt="Winterhub-1990" /> </p>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **AI, Machine Learning and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/elite-0000?tab=repositories](https://github.com/elite-0000?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Winterhub-1990?tab=repositories](https://github.com/Winterhub-1990?tab=repositories)
 
 - 💬 Ask me about **AWS, GCP, Heroku and Golang, Python, Rust**
 
-- 📫 How to reach me **elite.alphapoint1990@gmail.com**
+- 📫 How to reach me **malskyi.oleksandr@outlook.com**
 
 - ⚡ Fun fact **I'm a rapper 🎤🎧🎵**
 <br/>
