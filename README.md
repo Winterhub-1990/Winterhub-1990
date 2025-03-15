@@ -1,27 +1,28 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+### Hello, I'm Paul-Louis :wave:
 
-<h1 align="center">Hi 👋, I'm Senior FullStack Develoepr</h1>
-<h3 align="center">Your favorite Full Stack Web Developer, I can build anything magically 🔮🪄 for you with React, Next, Vue, NodeJS and Firebase 💻🧑‍💻, and I can put my beautiful UI & UX skills to your app 🎨🖌️.</h3>
-<p>I'm experienced in building complex UI on web applications with JavaScript/TypeScript, ReactJS, NextJS, and TailwindCSS, shadcn/ui, libraries like TanStack Query, zod, framer-motion, CMS Sanity.io and Storyblok, and others.</p>
+- :man: I'm a Software Engineer and Computer Science PhD from France.
+- :telescope: I like working on network protocols and applications, particularly distributed ones.
+- :computer: I have a wide range of interests in new technologies, from video game graphics to robotics and 3D printing.
+- :star: I'm a WebRTC expert and the author of [libdatachannel](https://libdatachannel.org/), a C/C++ WebRTC standalone library.
+- :hearts: I'm looking for [sponsors](https://github.com/sponsors/paullouisageneau) to continue maintaining open-source projects.
+- :mailbox: Please find my contact information and résumé on [paul-louis.ageneau.org](https://paul-louis.ageneau.org/)
+- :tophat: Check out my blog  where I tinker with stuff on [chapelierfou.org](https://chapelierfou.org/)
+- :thumbsup: Follow me on [GitHub](https://github.com/paullouisageneau?tab=followers) or [Mastodon](https://fosstodon.org/@plajno)
+- :smile: Pronouns: he/him
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elite-0000&base=12300&label=Profile%20views&color=blueviolet&style=flat" alt="elite-0000" /> </p>
+Some of my open source projects:
 
+- [libdatachannel](https://github.com/paullouisageneau/libdatachannel): WebRTC and WebSockets C/C++ standalone library
+- [datachannel-wasm](https://github.com/paullouisageneau/datachannel-wasm): C++ WebRTC Data Channels and WebSockets for WebAssembly
+- [libjuice](https://github.com/paullouisageneau/libjuice): Lightweight UDP Interactive Connectivity Establishment (ICE) library
+- [libplum](https://github.com/paullouisageneau/libplum): Multi-protocol NAT Port Mapping client library
+- [node-portmapping](https://github.com/paullouisageneau/node-portmapping): Node.js bindings for libplum
+- [violet](https://github.com/paullouisageneau/violet): Lightweight STUN/TURN server
+- [boost-asio-gnutls](https://github.com/paullouisageneau/boost-asio-gnutls): GnuTLS wrapper for Boost.Asio
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+I'm a contributor to [node-datachannel](https://github.com/murat-dogan/node-datachannel), Node.js bindings for [libdatachannel](https://libdatachannel.org/).
 
-- 🔭 I’m currently working on
+I've also been contributing to [WebTorrent](https://webtorrent.io/), and [libtorrent](https://github.com/arvidn/libtorrent), in which I added WebTorrent support. This first native WebTorrent implementation opens exciting possibilities for Peer-to-Peer file exchanges between Web browsers and native clients!
 
-- 🌱 I’m currently learning **AI, Machine Learning and Python**
-
-- 👨‍💻 All of my projects are available at [https://github.com/elite-0000?tab=repositories](https://github.com/elite-0000?tab=repositories)
-
-- 💬 Ask me about **AWS, GCP, Heroku and Golang, Python, Rust**
-
-- 📫 How to reach me **elite.alphapoint1990@gmail.com**
-
-- ⚡ Fun fact **I'm a rapper 🎤🎧🎵**
-<br/>
- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Otherwise, I like working on robots and tinkering with [Minitels](https://en.wikipedia.org/wiki/Minitel)! Check out [my blog](https://chapelierfou.org/) :robot:
 
