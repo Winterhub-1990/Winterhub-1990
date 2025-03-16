@@ -7,5 +7,18 @@
 - :mailbox: Please find my contact information and résumé on [enjoylife.follower@gmail.com]
 - :smile: Pronouns: he/him
 
+## My core Skill
+◉ Video Streaming Protocols: HLS, MPEG-DASH, RTMP, RTSP, SRT.
+◉ Broadcasting: OTT, IPTV, CTV.
+◉ Video Codecs: H.264, HEVC, VP9, AV1.
+◉ Streaming Servers: Wowza, Red5, Nginx.
+◉ Cloud Platforms: AWS, GCP, Amazon Kinesis Video Streaming.
+◉ Content Delivery Networks (CDNs): Akamai, CloudFront, Fastly.
+◉ Video Conferencing: Jitsi, Janus, WebRTC
+◉ SSAI: SCTE-224, SCTE-35, AWS Elemental MediaTailor, FFmpeg.
+◉ IoT Protocols: MQTT.
+◉ Surveillance Systems: CCTV. IP Cameras.
+◉ Programming Languages: C/C++, Python, JavaScript, Golang, C#/.NET.
+◉ Encoding Software: FFmpeg, Gstreamer, x264, AWS Elemental MediaConvert.
 
 
