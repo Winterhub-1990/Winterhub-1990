@@ -6,18 +6,13 @@
 - :smile: Pronouns: he/him
 
 ## My core Skill
-- Video Streaming Protocols: HLS, MPEG-DASH, RTMP, RTSP, SRT.
-- Broadcasting: OTT, IPTV, CTV.
-- Video Codecs: H.264, HEVC, VP9, AV1.
-- Streaming Servers: Wowza, Red5, Nginx.
+- Languages: Python, JavaScript, Typescript, TailwindCSS, SQL, PHP
+- Frontend: React.js, Vue.js,Next.js, Nuxt.js
+- Backend: Node.js, Django, Flask, Spring Boot, Laravel, CodeIgniter, CakePHP
+- Databases: MongoDB, PostgreSQL, MySQL, Redis
 - Cloud Platforms: AWS, GCP, Amazon Kinesis Video Streaming.
-- Content Delivery Networks (CDNs): Akamai, CloudFront, Fastly.
-- Video Conferencing: Jitsi, Janus, WebRTC
-- SSAI: SCTE-224, SCTE-35, AWS Elemental MediaTailor, FFmpeg.
-- IoT Protocols: MQTT.
-- Surveillance Systems: CCTV. IP Cameras.
-- Programming Languages: C/C++, Python, JavaScript, Golang, C#/.NET.
-- Encoding Software: FFmpeg, Gstreamer, x264, AWS Elemental MediaConvert.
+- Version control: GIT, SVN; Github, BitBucket
+- AWS: Amplify, EC2, lambda, Cognito, API Gateway, Cloud Front, AppSync, DynamoDB...
 
 ## My Working History
 
