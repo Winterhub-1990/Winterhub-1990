@@ -1,9 +1,8 @@
 ### Hello, I'm Sr.Full Stack Developer :wave:
 
-- :telescope: I like working on network protocols and applications, particularly distributed ones.
+- :telescope: Specializing in Python (Django, Flask, FastAPI) and Node.js, along with React, Next, Vue, Web Scraping, and TypeScript
 - :computer: I have a wide range of interests in new technologies, from video game graphics to robotics and 3D printing.
 - :star: I'm a WebRTC expert and the author of [libdatachannel](https://libdatachannel.org/), a C/C++ WebRTC standalone library.
-- :hearts: I'm looking for [VR Video Streaming and 360° Video](https://www.wowza.com/live-video-streaming/virtual-reality-and-360-degree-streaming) to continue maintaining open-source projects.
 - :smile: Pronouns: he/him
 
 ## My core Skill
@@ -22,29 +21,27 @@
 
 ## My Working History
 
-### Senior Video Platform Engineer | Visionary Streams
-### June 2020 - April 2024
+### Senior Full Stack Developer | LENET
+### June 2023 - April 2024
 
-- Led the development of cutting-edge video streaming platforms with a focus on scalability and performance.
-- Spearheaded the integration of AI-driven analytics to personalize content delivery and recommendations.
-- Oversaw the transition to cloud-based streaming solutions, leveraging AWS and Azure technologies.
+- Engineered sophisticated internal tools leveraging Python and SQL for text mining, including sentiment analysis, and developed advanced web crawlers to efficiently gather and process large datasets.
+- Implemented and managed scalable web applications and services using AWS Elastic Beanstalk, leveraging advanced AWS services such as CloudFormation for infrastructure as code, CloudWatch for monitoring and logging, and RDS for database integration, specifically deploying and optimizing solutions built with Node.js and Python.
+- Developed a Python script integrating telegram and asana API to automate data transfer between several systems, reducing the time spent on manual data entry by 60%.
 - Collaborated with UX designers to improve user interfaces and overall viewer engagement.
-- Managed a team of engineers to execute strategic projects that enhance the platform’s competitive edge.
+- Engineered a highly scalable and efficient backend architecture for a real estate assistance platform, leveraging FastAPI for API development, gRPC for streamlined communication, GraphQL for flexible data querying, and AWS for robust cloud infrastructure.
 
-### Content Delivery Network Engineer | Streamline Solutions
-### March 2017 - May 2020
+### Senior Full Stack Developer | LSRtech
+### March 2019 - May 2023
 
-- Designed and optimized CDN strategies to enhance the distribution of video content globally.
-- Worked closely with network engineers to scale infrastructure, reducing load times and improving reliability.
-- Developed caching algorithms and edge computing solutions to ensure seamless video playback.
-- Collaborated with content teams to implement DRM (Digital Rights Management) and security protocols.
-- Monitored CDN performance metrics and conducted performance tuning to enhance streaming efficiency.
+- Led the development of a new feature deployment system, reducing deployment times by 50% and minimizing system downtime
+- Implemented a comprehensive logging and monitoring system using ELK stack, which decreased mean time to resolution (MTTR) by 45%.
+- Designed scalable data storage solutions using PostgreSQL, enhancing data retrieval efficiency by 40%.
+- Optimized microservices communication using gRPC, resulting in a 35% improvement in data transfer speeds.
+- Monitored CDN performance metrics and conducted performance.
 
-### Video Streaming Specialist | TechMedia Inc
-### January 2015 - February 2017
-- Managed the end-to-end video streaming process, ensuring high-quality delivery of video content to millions of users.
-- Collaborated with cross-functional teams to integrate new streaming technologies and improve current infrastructure.
-- Analyzed streaming data to identify and resolve issues related to buffering, latency, and video quality.
-- Implemented adaptive bitrate streaming protocols to optimize user experience across various devices and network conditions.
-- Conducted regular testing and monitoring of video streams to maintain standards and troubleshoot technical problems.
+### Senior Software Engineer | Mindsight
+### January 2015 - February 2019
+- Developed user-friendly interfaces for mobile applications and websites.
+- Collaborated with backend developers to integrate frontend components with server-side logic.
+- Implemented various APIs and third-party libraries, enhancing the functionality and interactivity of web applications, while keeping up-to-date with the latest industry trends and technologies.
 
